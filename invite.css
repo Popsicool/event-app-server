@@ -1,0 +1,206 @@
+
+.main {
+    text-align: center;
+    background-size: 100%;
+    position: relative;
+    top: 0;
+    bottom:0;
+    left: 0;
+    right: 0;
+    width:980px;
+    height: 500px;
+    margin-top:20px;
+  }
+  .card1 img {
+    float: left;
+    width:400px;
+    margin-left: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 15px;
+    
+  }
+  .card2 img {
+    width:400px;
+    margin-left:5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 15px;
+  }
+  .first-text{
+    font-weight:bold;
+    font-size:60px;
+    font-family:'Pinyon Script', cursive;
+    text-align: center;
+    position:absolute;
+    top: 8%;
+    left: 190px;
+  }
+  .second-text{
+    font-weight:bold;
+    font-size:10px;
+    font-family:'Averia Serif Libre', cursive;
+    text-align: center;
+    position:absolute;
+    top: 27%;
+    left: 200px; 
+  }
+  .third-text{
+    font-weight:bold;
+    font-size:25px;
+    font-family:'Pinyon Script', cursive;
+    text-align: center;
+    position:absolute;
+    top: 35%;
+    left: 130px;
+  }
+  .fourth-text{
+    font-weight:bold;
+    font-size:10px;
+    font-family:'Averia Serif Libre', cursive;
+    text-align: center;
+    position:absolute;
+    top: 44%;
+    left: 270px;
+  }
+  .fifth-text{
+    font-weight:bold;
+    font-size:25px;
+    font-family:'Pinyon Script', cursive;
+    text-align: center;
+    position:absolute;
+    top: 46%;
+    left: 130px; 
+  }
+  .sixth-text {
+    font-weight:bold;
+    font-size:10px;
+    font-family:'Averia Serif Libre', cursive;
+    text-align: center;
+    position:absolute;
+    top: 57%;
+    left: 190px; 
+  }
+  .seventh-text {
+    font-weight:bold;
+    font-size:10px;
+    font-family:'Averia Serif Libre', cursive;
+    text-align: center;
+    position:absolute;
+    top: 66%;
+    left: 233px; 
+  }
+  .eight-text {
+    font-weight:bold;
+    font-size:10px;
+    font-family:'Averia Serif Libre', cursive;
+    text-align: center;
+    position:absolute;
+    top: 82%;
+    left: 220px; 
+  }
+  .card2-text1 {
+    font-weight:bold;
+    font-size:50px;
+    font-family:'Averia Serif Libre', cursive;
+    text-align: center;
+    position:absolute;
+    top: 25%;
+    left: 670px; 
+  }
+  .card2-text2 {
+    font-weight:bold;
+    font-size:13px;
+    font-family:'Averia Serif Libre', cursive;
+    text-align: center;
+    position:absolute;
+    top: 36%;
+    left: 690px; 
+  }
+  .card2-text3 {
+    font-weight:bold;
+    font-size:22px;
+    font-family:'Averia Serif Libre', cursive;
+    text-align: center;
+    position:absolute;
+    top: 45%;
+    left: 600px; 
+  }
+  .card2-text4 {
+    font-size:13px;
+    font-family:'Averia Serif Libre', cursive;
+    text-align: center;
+    position:absolute;
+    top: 78%;
+    left: 720px; 
+  }
+  .card2-text5 {
+    font-size:13px;
+    font-family:'Averia Serif Libre', cursive;
+    text-align: center;
+    position:absolute;
+    top: 82%;
+    left: 720px; 
+  }
+  .card2-text6 {
+    font-size:13px;
+    font-family:'Averia Serif Libre', cursive;
+    text-align: center;
+    position:absolute;
+    top: 86%;
+    left: 720px; 
+  }
+  .line1 {
+    background-color: black;
+    width: 27%;
+    margin-left: auto;
+    margin-right: auto; 
+    position:absolute;
+    top: 52%;
+    left: 630px;
+  }
+  .line2 {
+    background-color: black;
+    width: 2.5%;
+    margin-left: auto;
+    margin-right: auto; 
+    position:absolute;
+    top: 82%;
+    left: 688px;
+  }
+  .line3 {
+     background-color: black;
+    width: 2.5%;
+    margin-left: auto;
+    margin-right: auto; 
+    position:absolute;
+    top: 86%;
+    left: 688px;
+  }
+  .line4 {
+     background-color: black;
+    width: 2.5%;
+    margin-left: auto;
+    margin-right: auto; 
+    position:absolute;
+    top: 90%;
+    left: 688px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
